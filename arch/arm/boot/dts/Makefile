@@ -468,6 +468,7 @@ dtb-$(CONFIG_SOC_AM33XX) += \
 	am335x-bone.dtb \
 	am335x-boneblack.dtb \
 	am335x-pocketbone.dtb \
+	am335x-sancloud-bbe-uboot.dtb \
 	am335x-boneblack-uboot.dtb \
 	am335x-bonegreen-modio.dtb \
 	am335x-boneblack-modio.dtb \
@@ -540,6 +541,7 @@ dtb-$(CONFIG_SOC_DRA7XX) += \
 	am571x-idk.dtb \
 	am571x-idk-lcd-osd.dtb \
 	am571x-idk-lcd-osd101t2587.dtb \
+	am571x-sndrblock.dtb \
 	am57xx-beagle-x15-ctag.dtb \
 	am572x-idk.dtb \
 	am572x-idk-lcd-osd.dtb \

@@ -90,7 +90,6 @@ enum hrtimer_restart {
  * @cb_entry:	list entry to defer timers from hardirq context
  * @irqsafe:	timer can run in hardirq context
  * @praecox:	timer expiry time if expired at the time of programming
- * @start_pid: timer statistics field to store the pid of the task which
  * @is_rel:	Set if the timer was armed relative
  * @start_pid:  timer statistics field to store the pid of the task which
  *		started the timer
